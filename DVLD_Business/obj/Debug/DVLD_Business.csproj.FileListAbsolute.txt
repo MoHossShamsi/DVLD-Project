@@ -1,0 +1,22 @@
+D:\Outputs\VS Code\C#\Course_19\DVLD_Business\bin\Debug\DVLD_Business.exe.config
+D:\Outputs\VS Code\C#\Course_19\DVLD_Business\bin\Debug\DVLD_Business.exe
+D:\Outputs\VS Code\C#\Course_19\DVLD_Business\bin\Debug\DVLD_Business.pdb
+D:\Outputs\VS Code\C#\Course_19\DVLD_Business\bin\Debug\DVLD_DataAccess.exe
+D:\Outputs\VS Code\C#\Course_19\DVLD_Business\bin\Debug\DVLD_DataAccess.pdb
+D:\Outputs\VS Code\C#\Course_19\DVLD_Business\bin\Debug\DVLD_DataAccess.exe.config
+D:\Outputs\VS Code\C#\Course_19\DVLD_Business\obj\Debug\DVLD_Business.csproj.AssemblyReference.cache
+D:\Outputs\VS Code\C#\Course_19\DVLD_Business\obj\Debug\DVLD_Business.csproj.CoreCompileInputs.cache
+D:\Outputs\VS Code\C#\Course_19\DVLD_Business\obj\Debug\DVLD_Bus.1422E61B.Up2Date
+D:\Outputs\VS Code\C#\Course_19\DVLD_Business\obj\Debug\DVLD_Business.exe
+D:\Outputs\VS Code\C#\Course_19\DVLD_Business\obj\Debug\DVLD_Business.pdb
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_Business\bin\Debug\DVLD_Business.exe.config
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_Business\bin\Debug\DVLD_Business.exe
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_Business\bin\Debug\DVLD_Business.pdb
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_Business\bin\Debug\DVLD_DataAccess.exe
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_Business\bin\Debug\DVLD_DataAccess.pdb
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_Business\bin\Debug\DVLD_DataAccess.exe.config
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_Business\obj\Debug\DVLD_Business.csproj.AssemblyReference.cache
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_Business\obj\Debug\DVLD_Business.csproj.CoreCompileInputs.cache
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_Business\obj\Debug\DVLD_Bus.1422E61B.Up2Date
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_Business\obj\Debug\DVLD_Business.exe
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_Business\obj\Debug\DVLD_Business.pdb
