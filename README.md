@@ -1,4 +1,4 @@
-# DVLD – Driver’s License Management System
+# DVLD – Driver’s and Vehicles License Departement Management System
 
 A desktop application built using C# WinForms that manages driver's license-related operations such as applications, exams, renewals, and more. The system is developed with a 3-tier architecture to ensure clean separation of concerns and easy maintainability.
 
