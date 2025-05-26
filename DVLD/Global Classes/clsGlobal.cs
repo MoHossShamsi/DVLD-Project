@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 using DVLD_Business;
+using Microsoft.Win32;
 
 
 namespace DVLD.Classes
@@ -95,6 +96,60 @@ namespace DVLD.Classes
                 return false;   
             }
 
+        }
+
+        //Win Reg version
+        public static bool SaveCredentialsToWinReg(string Username, string Password)
+        {
+            //Sepcify the sub key used for the app
+            string subKey = @"SOFTWARE\DVLD";
+
+
+            try
+            {
+                // Write the value to the Registry
+                using (RegistryKey regKey = Registry.CurrentUser.CreateSubKey(subKey))
+                { 
+                    if(regKey == null)
+                        return false;
+
+                    // Write the value to the Registry
+                    regKey.SetValue("Login Username", Username, RegistryValueKind.String);
+                    regKey.SetValue("Login Password", Password, RegistryValueKind.String);
+                }
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
+
+            return true;
+        }
+
+        public static bool GetWinRegStoredCredentials(ref string Username, ref string Password)
+        {
+            string subKey = @"SOFTWARE\DVLD";
+
+
+            try
+            {
+                // Write the value to the Registry
+                using (RegistryKey regKey = Registry.CurrentUser.CreateSubKey(subKey))
+                {
+                    if (regKey == null)
+                        return false;
+
+                    // Read the value to the Registry
+                    Username = regKey.GetValue("Login Username") as string;
+                    Password = regKey.GetValue("Login Password") as string;
+                }
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
+
+            return true;
         }
     }
 }

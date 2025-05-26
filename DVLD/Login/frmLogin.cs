@@ -33,11 +33,11 @@ namespace DVLD.Login
             {
                 if (chkRememberMe.Checked)
                 {
-                    clsGlobal.RememberUsernameAndPassword(txtUsername.Text.Trim(), txtPassword.Text.Trim());
+                    clsGlobal.SaveCredentialsToWinReg(txtUsername.Text.Trim(), txtPassword.Text.Trim());
                 }
                 else
                 {
-                    clsGlobal.RememberUsernameAndPassword("", "");
+                    clsGlobal.SaveCredentialsToWinReg("", "");
                 }
 
                 if (!user.IsActive)
@@ -63,7 +63,7 @@ namespace DVLD.Login
         {
             string UserName = "", Password = "";
 
-            if (clsGlobal.GetStoredCredential(ref UserName, ref Password))
+            if (clsGlobal.GetWinRegStoredCredentials(ref UserName, ref Password))
             {
                 txtUsername.Text = UserName;
                 txtPassword.Text = Password;

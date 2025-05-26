@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\DVLD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F92E8789-9E3B-4536-8397-2913F11A89C5}|DVLD.csproj|D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\DVLD\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F92E8789-9E3B-4536-8397-2913F11A89C5}|DVLD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F92E8789-9E3B-4536-8397-2913F11A89C5}|DVLD.csproj|d:\\outputs\\vs code\\c#\\course_19\\dvld sol\\dvld\\global classes\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92E8789-9E3B-4536-8397-2913F11A89C5}|DVLD.csproj|solutionrelative:global classes\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F92E8789-9E3B-4536-8397-2913F11A89C5}|DVLD.csproj|d:\\outputs\\vs code\\c#\\course_19\\dvld sol\\dvld\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F92E8789-9E3B-4536-8397-2913F11A89C5}|DVLD.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedHeight": 275,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\DVLD\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\DVLD\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\DVLD\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
+              "ToolTip": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\DVLD\\Login\\frmLogin.cs",
+              "RelativeToolTip": "Login\\frmLogin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-28T15:08:14.857Z",
+              "WhenOpened": "2025-04-15T08:00:27.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsGlobal.cs",
+              "DocumentMoniker": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\DVLD\\Global Classes\\clsGlobal.cs",
+              "RelativeDocumentMoniker": "Global Classes\\clsGlobal.cs",
+              "ToolTip": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\DVLD\\Global Classes\\clsGlobal.cs",
+              "RelativeToolTip": "Global Classes\\clsGlobal.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAkwJEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:35:22.729Z",
               "EditorCaption": ""
             }
           ]
