@@ -63,5 +63,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Solution Global Classes\SolutionGlobalClasses.csproj">
+      <Project>{e78e9942-a7c3-438c-9e64-62ac7e38d5e4}</Project>
+      <Name>SolutionGlobalClasses</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

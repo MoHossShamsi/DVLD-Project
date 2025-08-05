@@ -1,0 +1,7 @@
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\Solution Global Classes\obj\Debug\SolutionGlobalClasses.csproj.AssemblyReference.cache
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\Solution Global Classes\obj\Debug\SolutionGlobalClasses.csproj.CoreCompileInputs.cache
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\Solution Global Classes\bin\Debug\SolutionGlobalClasses.dll.config
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\Solution Global Classes\bin\Debug\SolutionGlobalClasses.dll
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\Solution Global Classes\bin\Debug\SolutionGlobalClasses.pdb
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\Solution Global Classes\obj\Debug\SolutionGlobalClasses.dll
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\Solution Global Classes\obj\Debug\SolutionGlobalClasses.pdb

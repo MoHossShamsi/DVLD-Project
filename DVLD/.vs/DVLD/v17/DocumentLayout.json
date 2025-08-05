@@ -1,12 +1,51 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\DVLD\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ECB89F8-BB0C-42D5-A74F-A52A8768B74D}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|d:\\outputs\\vs code\\c#\\course_19\\dvld sol\\dvld_dataaccess\\clsapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E78E9942-A7C3-438C-9E64-62AC7E38D5E4}|..\\Solution Global Classes\\SolutionGlobalClasses.csproj|d:\\outputs\\vs code\\c#\\course_19\\dvld sol\\solution global classes\\clslogging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 275,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsLogging.cs",
+              "DocumentMoniker": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\Solution Global Classes\\clsLogging.cs",
+              "RelativeDocumentMoniker": "..\\Solution Global Classes\\clsLogging.cs",
+              "ToolTip": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\Solution Global Classes\\clsLogging.cs",
+              "RelativeToolTip": "..\\Solution Global Classes\\clsLogging.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T14:48:02.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsApplications.cs",
+              "DocumentMoniker": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\DVLD_DataAccess\\clsApplications.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsApplications.cs",
+              "ToolTip": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\DVLD_DataAccess\\clsApplications.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsApplications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T13:11:36.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

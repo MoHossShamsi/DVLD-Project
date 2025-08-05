@@ -1,0 +1,2 @@
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\Solution Global Classes\obj\Debug\Solution Global Classes.csproj.AssemblyReference.cache
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\Solution Global Classes\obj\Debug\Solution Global Classes.csproj.CoreCompileInputs.cache

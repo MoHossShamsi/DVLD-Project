@@ -467,6 +467,10 @@
       <Project>{0259a9bb-22ed-4838-8c71-2d7d4f774664}</Project>
       <Name>DVLD_Business</Name>
     </ProjectReference>
+    <ProjectReference Include="..\Solution Global Classes\SolutionGlobalClasses.csproj">
+      <Project>{e78e9942-a7c3-438c-9e64-62ac7e38d5e4}</Project>
+      <Name>SolutionGlobalClasses</Name>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\Manage People.png" />

@@ -3,12 +3,10 @@
   "WorkspaceRootPath": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\DVLD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F92E8789-9E3B-4536-8397-2913F11A89C5}|DVLD.csproj|d:\\outputs\\vs code\\c#\\course_19\\dvld sol\\dvld\\global classes\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F92E8789-9E3B-4536-8397-2913F11A89C5}|DVLD.csproj|solutionrelative:global classes\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7ECB89F8-BB0C-42D5-A74F-A52A8768B74D}|..\\DVLD_DataAccess\\DVLD_DataAccess.csproj|d:\\outputs\\vs code\\c#\\course_19\\dvld sol\\dvld_dataaccess\\clsapplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F92E8789-9E3B-4536-8397-2913F11A89C5}|DVLD.csproj|d:\\outputs\\vs code\\c#\\course_19\\dvld sol\\dvld\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F92E8789-9E3B-4536-8397-2913F11A89C5}|DVLD.csproj|solutionrelative:login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E78E9942-A7C3-438C-9E64-62AC7E38D5E4}|..\\Solution Global Classes\\SolutionGlobalClasses.csproj|d:\\outputs\\vs code\\c#\\course_19\\dvld sol\\solution global classes\\clslogging.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,27 +21,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "frmLogin.cs",
-              "DocumentMoniker": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\DVLD\\Login\\frmLogin.cs",
-              "RelativeDocumentMoniker": "Login\\frmLogin.cs",
-              "ToolTip": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\DVLD\\Login\\frmLogin.cs",
-              "RelativeToolTip": "Login\\frmLogin.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAA0AAAAAAAAAA==",
+              "Title": "clsLogging.cs",
+              "DocumentMoniker": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\Solution Global Classes\\clsLogging.cs",
+              "RelativeDocumentMoniker": "..\\Solution Global Classes\\clsLogging.cs",
+              "ToolTip": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\Solution Global Classes\\clsLogging.cs",
+              "RelativeToolTip": "..\\Solution Global Classes\\clsLogging.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T08:00:27.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-22T14:48:02.524Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "clsGlobal.cs",
-              "DocumentMoniker": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\DVLD\\Global Classes\\clsGlobal.cs",
-              "RelativeDocumentMoniker": "Global Classes\\clsGlobal.cs",
-              "ToolTip": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\DVLD\\Global Classes\\clsGlobal.cs",
-              "RelativeToolTip": "Global Classes\\clsGlobal.cs",
-              "ViewState": "AgIAAIcAAAAAAAAAAAAkwJEAAAANAAAAAAAAAA==",
+              "Title": "clsApplications.cs",
+              "DocumentMoniker": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\DVLD_DataAccess\\clsApplications.cs",
+              "RelativeDocumentMoniker": "..\\DVLD_DataAccess\\clsApplications.cs",
+              "ToolTip": "D:\\Outputs\\VS Code\\C#\\Course_19\\DVLD Sol\\DVLD_DataAccess\\clsApplications.cs",
+              "RelativeToolTip": "..\\DVLD_DataAccess\\clsApplications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T07:35:22.729Z",
+              "WhenOpened": "2025-06-17T13:11:36.31Z",
               "EditorCaption": ""
             }
           ]

@@ -5,10 +5,15 @@ D:\Outputs\VS Code\C#\Course_19\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj
 D:\Outputs\VS Code\C#\Course_19\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
 D:\Outputs\VS Code\C#\Course_19\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.exe
 D:\Outputs\VS Code\C#\Course_19\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
 D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.exe.config
 D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.exe
 D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_DataAccess\bin\Debug\DVLD_DataAccess.pdb
-D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.AssemblyReference.cache
-D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.csproj.CoreCompileInputs.cache
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_DataAccess\obj\Debug\DVLD_Dat.AAF49C98.Up2Date
 D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.exe
 D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.pdb
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_DataAccess\obj\Debug\DVLD_DataAccess.exe.config
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_DataAccess\bin\Debug\SolutionGlobalClasses.dll
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_DataAccess\bin\Debug\SolutionGlobalClasses.pdb
+D:\Outputs\VS Code\C#\Course_19\DVLD Sol\DVLD_DataAccess\bin\Debug\SolutionGlobalClasses.dll.config

@@ -1,4 +1,5 @@
 ﻿using ContactsDataAccessLayer;
+using SolutionGlobalClasses;
 using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
@@ -46,7 +47,9 @@ namespace DVLD_DataAccess
             }
             catch (Exception ex)
             {
-                // Handle exception (logging can be added here)
+                // Handle exception
+                string message = clsLogging.LogException(ex);
+                clsLogging.LogInfo(message);
                 isFound = false;
             }
             finally
